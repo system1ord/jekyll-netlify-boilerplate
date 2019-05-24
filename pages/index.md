@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: A Montana Public Relations + Marketing Firm
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Global Strategies provides business, Non-profit and other organizations the public relation and digital marketing services it takes to win. 
 ---
