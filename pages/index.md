@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PR + Marketing Firm
+title: Public Relations + Marketing Firm
 permalink: /
 section: home
 intro_paragraph: >
