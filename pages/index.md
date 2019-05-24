@@ -4,5 +4,12 @@ title: A Montana Public Relations + Marketing Firm
 permalink: /
 section: home
 intro_paragraph: >
-  Global Strategies provides business, Non-profit and other organizations the public relation and digital marketing services it takes to win. 
+  Global Strategies provides businesses, non-profits and other organizations the public relation and digital marketing services it takes to win. 
+
+ Digital Marketing
+ Social Media Marketing
+ Website Optimization
+ Responsive Web Design
+ Digital Grassroots Advocacy
+ Public Relations
 ---
